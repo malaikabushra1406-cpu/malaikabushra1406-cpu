@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile.jpg" width="200" style="border-radius:50%" />
+</p>
 ### Hi there, I'm Malaika Bushra Tahseen👋
 # 💫 About Me:
 ## 💫 About Me:
