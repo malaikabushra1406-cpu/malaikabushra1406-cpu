@@ -1,5 +1,11 @@
 ### Hi there, I'm Malaika Bushra Tahseen👋
 # 💫 About Me:
+## 💫 About Me:
+🔭 I'm currently working on Building AI Projects
+🌱 I'm currently learning AI & Machine Learning
+👯 I'm looking to collaborate on AI Projects
+💬 Ask me about Python
+📫 How to reach me: malaikabushra1406
 <br><br>*I'm currently working on* - building ai projects andWebsites<br><br>*I'm looking to collaborate on* - Modern UI Projects<br><br>*I'm looking for help with* - Advanced Animations<br><br>*I'm currently learning* - ai claude CybersecurityReact and Framer Motion<br><br>*Ask me about* - Web Design on Mobile<br><br>*Fun fact* - I build websites without a laptop
 
 
